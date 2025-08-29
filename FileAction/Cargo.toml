@@ -1,6 +1,6 @@
 [package]
 name = "file-action"
-version = "0.1.0"
+version = "1.0.1"
 edition = "2024"
 description = "A Rust utility library for file operations including reading/writing text, CSV, and JSON files"
 license = "MIT"
